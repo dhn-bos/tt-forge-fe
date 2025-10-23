@@ -6,7 +6,7 @@
 	url = https://github.com/pybind/pybind11.git
 [submodule "third_party/tt-mlir"]
 	path = third_party/tt-mlir
-	url = https://github.com/tenstorrent/tt-mlir.git
+	url = https://github.com/dhn-bos/tt-mlir.git
 [submodule "third_party/fmt"]
 	path = third_party/fmt
 	url = https://github.com/fmtlib/fmt

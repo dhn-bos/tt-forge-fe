@@ -8,5 +8,6 @@
 
 rm -rf build
 rm -rf third_party/tt-mlir/build
-rm -rf third_party/tt-mlir/third_party/tt-metal
+rm -rf third_party/tt-mlir/third_party/tt-metal/src/tt-metal/build
+rm -rf third_party/tt-mlir/third_party/tt-metal/src/tt-metal/.cpmcache
 rm -rf third_party/tvm/build
